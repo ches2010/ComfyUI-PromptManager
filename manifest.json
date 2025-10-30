@@ -1,0 +1,17 @@
+{
+    "name": "ComfyUI-PromptManager",
+    "author": "ComfyUI用户",
+    "version": "1.0.0",
+    "description": "ComfyUI提示词管理插件，支持保存、加载和随机组合提示词功能",
+    "repo": "https://github.com/yourusername/ComfyUI-PromptManager",
+    "install_type": "python",
+    "python_dependencies": [],
+    "requirements": [],
+    "install_script": "install.py",
+    "node_classes": [
+        "PromptManagerNode"
+    ],
+    "category": "提示词管理",
+    "tags": ["prompt", "manager", "save", "load", "random"],
+    "license": "MIT"
+}
